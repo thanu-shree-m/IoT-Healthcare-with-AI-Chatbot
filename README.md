@@ -9,4 +9,5 @@ The system provides multiple features such as temperature measurement, pulse mea
 The project has fuve main features:
 
 1. Temperature and Pulse Measurement
+
 One of the prime health factors is temperature. Sustaining normal body temperature is very important. Temperature of a human can be varied by various factors such as age, day-to-day activity, and humidity. One of the functionalities of our project is temperature measurement. Measured temperature will be displayed on LCD. The temperature of a person will be measured through LM35 temperature sensor. LM35 is an accurate integrated temperature sensor whose results are based on its surroundings. It is a tiny sensor and IC which measures the temperature from -50 degree C to 150-degree C. It can be simply combined with microcontrollers such as Arduino.
