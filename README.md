@@ -1,2 +1,5 @@
 # IoT-Healthcare-with-AI-Chatbot
-Healthcare system with improved efficiency, safety, and reduced cost can be achieved by implementing smart IoT healthcare system which is user friendly and easy to use. The system provides multiple features such as temperature measurement, pulse measurement, BMI calculation, medicine reminder and social distancing alert using different sensors. 
+
+Internet of Things in the healthcare sector has revolutionized the way people monitor and manage their health. IoT healthcare devices and solutions have made it possible for individuals to have greater control and visibility into their well-being. IoT healthcare has the potential to greatly improve health outcomes, enhance patient experiences, reducing health costs and enable solutions for issues like increasing healthcare access in remote areas. It is paving the way for a new era of proactive, predictive, personalized, and precision medicine.
+IoT in healthcare has truly revolutionized how we monitor and manage health in the world today.
+
